@@ -1,36 +1,42 @@
-💬 CUSTOMER SERVICE CHATBOT
+# 💬 Customer Service Chatbot
 
-Chatbot sederhana untuk mencatat keluhan atau pertanyaan pelanggan, dibangun dengan Streamlit, OpenAI API, dan SQLite.
+Chatbot sederhana untuk mencatat **keluhan atau pertanyaan pelanggan**, dibangun dengan **Streamlit**, **OpenAI API**, dan **SQLite**.
 
+---
 
-🚀 CARA MENJALANKAN
+## 🚀 Cara Menjalankan
 
-1. Install dependency:
+1. **Install dependency**
    pip install streamlit openai python-dotenv pandas
 
-2. Buat file .env:
+2. **Buat file `.env`**
    OPENAI_API_KEY=your_openai_api_key_here
 
-3. Jalankan aplikasi:
+3. **Jalankan aplikasi**
    streamlit run app.py
 
+---
 
-⚙️ FITUR
+## ⚙️ Fitur
 
-- Mode USER → kirim keluhan atau pertanyaan
-- Mode ADMIN → lihat semua data keluhan dari database
-- Data otomatis disimpan ke SQLite (customer_service.db)
+- 🧍 User Mode — kirim keluhan atau pertanyaan pelanggan  
+- 🧑‍💼 Admin Mode — lihat semua data keluhan dari database  
+- 💾 Data otomatis disimpan ke SQLite (customer_service.db)  
+- 🤖 Chat interaktif dengan model OpenAI  
 
+---
 
-🧩 STRUKTUR FILE
+## 🗂️ Struktur File
 
-app.py                -> File utama Streamlit
-customer_service.db   -> Database SQLite (otomatis dibuat)
-.env                  -> Menyimpan API Key OpenAI
-requirements.txt      -> Daftar dependency
+app.py                # File utama Streamlit  
+customer_service.db   # Database SQLite (otomatis dibuat)  
+.env                  # Menyimpan API Key OpenAI  
+requirements.txt      # Daftar dependency  
 
+---
 
-🔐 DEFAULT LOGIN ADMIN
+## 🔐 Default Login Admin
 
-username: admin
-password: admin123
+username: admin  
+password: admin123  
+
