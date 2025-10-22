@@ -1,4 +1,4 @@
-💬 CUSTOMER SERVICE CHATBOT
+#💬 CUSTOMER SERVICE CHATBOT
 
 Chatbot sederhana untuk mencatat keluhan atau pertanyaan pelanggan, dibangun dengan Streamlit, OpenAI API, dan SQLite.
 
