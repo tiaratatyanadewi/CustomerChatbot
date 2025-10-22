@@ -1,6 +1,8 @@
 # 💬 Customer Service Chatbot
 
-Chatbot sederhana untuk mencatat **keluhan atau pertanyaan pelanggan**, dibangun dengan **Streamlit**, **OpenAI API**, dan **SQLite**.
+Chatbot sederhana untuk mencatat **keluhan atau pertanyaan pelanggan**, dibangun dengan **Streamlit**, **OpenAI API**, dan **SQLite**.\
+
+VIDEO DEMO: https://drive.google.com/file/d/1aCVFeiZUJjuWBQ0xDtJl8FfuhyW27gjh/view?usp=sharing
 
 ---
 
