@@ -1,6 +1,6 @@
 # 💬 Customer Service Chatbot
 
-Updated Version (using FastAPI backend) : https://github.com/tiaratatyanadewi/CHATBOT-2.0.git
+ 👉Updated Version (using FastAPI backend) : https://github.com/tiaratatyanadewi/CHATBOT-2.0.git
 
 Chatbot sederhana untuk mencatat **keluhan atau pertanyaan pelanggan**, dibangun dengan **Streamlit**, **OpenAI API**, dan **SQLite**.
 
